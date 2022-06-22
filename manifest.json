@@ -9,11 +9,11 @@
    "target": [
         {
             "targetLanguage": "de-DE",
-            "targetPath": "/Test"
+            "targetPath": "Test/"
         },
 	   {
             "targetLanguage": "fr-FR",
-            "targetPath": "/Test"
+            "targetPath": "Test/"
         }
     ]
 }
