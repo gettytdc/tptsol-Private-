@@ -1,6 +1,6 @@
 {
     "sourceLanguage": "en-US",
-    "sourcePath": "Test/",
+    "sourcePath": "/Test",
     "fileType": ".doc",
 	"custom_attributes":{
 		"Attribute-1":"abc",
@@ -9,11 +9,11 @@
    "target": [
         {
             "targetLanguage": "de-DE",
-            "targetPath": "Test/"
+            "targetPath": "/Test"
         },
 	   {
             "targetLanguage": "fr-FR",
-            "targetPath": "Test/"
+            "targetPath": "/Test"
         }
     ]
 }
