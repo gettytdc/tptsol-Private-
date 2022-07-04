@@ -1,6 +1,5 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model id="bacchus122" family="clothing">
+<model id="bacchus1221" family="clothing">
     <attribute type="Nutritionupdated_Table_02__1__mobileiphone_samsung" urlToPutNode="https://transperfect50.demo.cloud.akeneo.com/api/rest/v1/product-models/bacchus" max_character="0" data_type="pim_catalog_table">
         <locale>en_US</locale>
         <scope>mobile</scope>
@@ -217,3 +216,8 @@
         <data>Slïìghtly wáæshëêd dëênïìm shòõrts wïìth wòõrn fïìnïìsh òõn thëê fròõnt. Théê môõdéêl ìís 185cm ãánd ìís wéêãárìíng ãá sìízéê ÜK 32, sìízéê 42 ÈN 100% côõttôõn. Máàchîínéé wáàsháàbléé.</data>
     </attribute>
 </model> 
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+
