@@ -1,3 +1,7 @@
 test file
+<<<<<<< HEAD
 this is new comntent test
+=======
+this is in remote
+>>>>>>> e48a9c78748a58d9a6412d31747f0084f9ca3685
 new test 
