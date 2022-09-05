@@ -2,7 +2,7 @@
     "sourceLanguage": "en-US",
     "sourcePath": "/Test",
     "fileType": ".doc",
-    "fileNames" : ["gyabc.doc","gyxyz.doc"],
+    "fileNames" : ["abc.doc","MNO.dcr"],
 	"custom_attributes":{
 		"Attribute-1":"abc",
 		"Attribute-3":"abc22"
